@@ -24,7 +24,7 @@ nav a{
 }
 
 .hero{
-    background-image: url('https://raw.githubusercontent.com/8-TECH/HopeEducators/refs/heads/main/book3.jpg');
+    background-image: url('book3.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;
